@@ -1,2 +1,0 @@
-# randomizer
-Simple Randomizer App
